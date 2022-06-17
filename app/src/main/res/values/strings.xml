@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Math</string>
+    <string name="text_sum">Сложение</string>
+    <string name="text_sub">Вычитание</string>
+    <string name="text_mul">Умножение</string>
+    <string name="text_div">Деление</string>
+    <string name="text_start">Начать</string>
+    <string name="text_soon">Скоро</string>
+    <string name="font_size">16sp</string>
+</resources>
