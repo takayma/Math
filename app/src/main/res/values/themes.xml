@@ -7,5 +7,12 @@
         <item name="colorSecondary">@color/crimson</item>
         <item name="colorSecondaryVariant">@color/dark_cyan</item>
         <item name="colorOnSecondary">@color/black</item>
+
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_width">100sp</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
     </style>
 </resources>
